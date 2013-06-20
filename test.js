@@ -11,7 +11,7 @@
 			  host: 				"10.0.100.1"
 			, port: 				3306
 			, user: 				"root"
-			, password: 			"3customize4system"
+			, password: 			""
 			, weight: 				1
 			, writable: 			true
 			, maxConnections: 		10
