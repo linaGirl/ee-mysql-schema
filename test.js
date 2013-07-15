@@ -20,8 +20,8 @@
 			load: function(){ 
 				console.log( "schema loaded" ); 
 
-				db.user.find( { email: "vanderweg@gmail.com" }, function( err, user ){
-					console.log( err, user );
+				db.user.findOne( { email: "" }, function( err, user ){
+					console.log( err, user, user.id );
 				} );
 			}
 		}
