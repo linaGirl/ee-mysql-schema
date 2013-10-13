@@ -21,7 +21,7 @@
 				console.log( "schema loaded" ); 
 
 				db.user.findOne( { email: "" }, function( err, user ){
-					console.log( err, user, user.id );
+					console.log( err, user.toJSON(), user.id );
 				} );
 			}
 		}
