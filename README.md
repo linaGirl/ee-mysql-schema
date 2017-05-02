@@ -1,6 +1,8 @@
 ee-mysql-schema
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/ee-mysql-schema.svg)](https://greenkeeper.io/)
+
 simple orm for ee-mysql
 
 
