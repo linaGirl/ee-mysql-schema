@@ -14,13 +14,13 @@
         "url":          "https://github.com/eventEmitter/ee-mysql-schema/issues"
     }
     , "dependencies": {
-          "ee-class":       "0.3.x"
+          "ee-class":       "~1.4.0"
         , "ee-event":       "0.1.x"
-        , "ee-log":         "0.2.x"
-        , "ee-argv":        "0.1.x"
+        , "ee-log":         "~2.0.2"
+        , "ee-argv":        "~1.0.2"
         , "ee-waiter":      "0.1.x"
         , "ee-mysql":       "0.1.x"
-        , "ee-lru-cache":   "0.1.x"
+        , "ee-lru-cache":   "~1.0.0"
     }
     , "devDependencies": {}
     , "optionalDependencies": {}
